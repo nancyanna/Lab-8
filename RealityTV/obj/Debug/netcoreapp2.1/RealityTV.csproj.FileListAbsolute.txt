@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\RealityTV\RealityTV\bin\Debug\netcoreapp2.1\RealityTV.deps.json
+C:\Users\student\source\repos\RealityTV\RealityTV\bin\Debug\netcoreapp2.1\RealityTV.runtimeconfig.json
+C:\Users\student\source\repos\RealityTV\RealityTV\bin\Debug\netcoreapp2.1\RealityTV.runtimeconfig.dev.json
+C:\Users\student\source\repos\RealityTV\RealityTV\bin\Debug\netcoreapp2.1\RealityTV.dll
+C:\Users\student\source\repos\RealityTV\RealityTV\bin\Debug\netcoreapp2.1\RealityTV.pdb
+C:\Users\student\source\repos\RealityTV\RealityTV\obj\Debug\netcoreapp2.1\RealityTV.csprojAssemblyReference.cache
+C:\Users\student\source\repos\RealityTV\RealityTV\obj\Debug\netcoreapp2.1\RealityTV.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\RealityTV\RealityTV\obj\Debug\netcoreapp2.1\RealityTV.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\RealityTV\RealityTV\obj\Debug\netcoreapp2.1\RealityTV.AssemblyInfo.cs
+C:\Users\student\source\repos\RealityTV\RealityTV\obj\Debug\netcoreapp2.1\RealityTV.dll
+C:\Users\student\source\repos\RealityTV\RealityTV\obj\Debug\netcoreapp2.1\RealityTV.pdb
